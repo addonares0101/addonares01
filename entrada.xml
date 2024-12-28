@@ -27,7 +27,7 @@
 </channel>
 
 <channel>
-<name>[COLOR red]Filmes classicosdocinema[/COLOR] [COLOR orange]]Dublados e Legendados[/COLOR]</name>
+<name>[COLOR red]Filmes Classicos do Cinema[/COLOR] [COLOR orange]]Dublados e Legendados[/COLOR]</name>
 <thumbnail>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</thumbnail>
 <fanart>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
@@ -41,7 +41,15 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonares0101/addonares01/refs/heads/main/filmesdcemarvel.xml</externallink>
 </channel>
-  
+
+<channel>
+<name>[COLOR red]Filmes Documentários[/COLOR] [COLOR orange]]Dublados e Legendados[/COLOR]</name>
+<thumbnail>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</thumbnail>
+<fanart>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonares0101/addonares01/refs/heads/main/filmesdocumentarios.xml</externallink>
+</channel> 
+
 <channel>
 <name>[COLOR red]Filmes faroeste[/COLOR] [COLOR orange]]Dublados e Legendados[/COLOR]</name>
 <thumbnail>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</thumbnail>
