@@ -17,6 +17,14 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonares0101/addonares01/refs/heads/main/filmesacao.xml</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR orange]]Filmes aventura 2024[/COLOR] [COLOR red]Dublados e Legendados 2024[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</thumbnail>
+<fanart>https://archive.org/download/afecafae-63d0-4eac-a364-6d9588dfec18/afecafae-63d0-4eac-a364-6d9588dfec18.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonares0101/addonares01/refs/heads/main/filmesaventura.xml</externallink>
+</channel>
   
 <channel>
 <name>[B][COLOR red]Filmes aventura 2024[/COLOR] [COLOR orange]]Dublados e Legendados 2024[/COLOR][/B]</name>
